@@ -52,8 +52,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [John Borman](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MadArtistPhoto)
+- Website - [John Borman](https://madartistphoto.github.io/Landing-Page/)
+- Frontend Mentor - [MadArtistPhoto](https://www.frontendmentor.io/profile/MadArtistPhoto)
 
 
 ## Acknowledgments
