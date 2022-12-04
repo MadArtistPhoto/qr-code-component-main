@@ -1,0 +1,73 @@
+/** styles.css **/
+/** qr-code-component **/
+
+:root
+{
+    --white: hsl(0, 0%, 100%);
+    --background: hsl(212, 45%, 89%);
+    --text: hsl(220, 15%, 55%);
+    --heading: hsl(218, 44%, 22%);
+
+    --fontsize: 15px;
+    font-family: Outfit;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container
+{
+    background-color: var(--background);
+    width: 100vw;
+    max-width: 1440px;
+    height: 100vh;
+    max-height: 1056px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#main
+{
+    background-color: var(--white);
+    width: 320px;
+    height: 500px;
+    border: 1px solid var(--text);
+    border-radius: 25px;
+    box-shadow: 4px 4px 4px rgb(116, 111, 111);
+}
+
+h1{
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--heading);
+    margin: 0px 30px;
+    text-align: center;
+}
+
+.main
+{
+    color: var(--text);
+    margin: 25px 30px;
+    text-align: center;
+}
+
+img
+{
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.attribution
+{   
+    font-size: 11px;
+    text-align: center;
+    margin-top: 10px;
+}
+.attribution a
+{
+    color: hsl(228, 45%, 44%);
+}
