@@ -48,7 +48,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
  
 ### Continued development
 
-- A big challenge I need to overcome is to quit 'copying and pasting code' and to actually write the code in place when and where needed.
+- A big challenge I need to overcome is to quit 'copying and pasting code' and to actually write the code in place when and where as needed.
 
 ## Author
 
